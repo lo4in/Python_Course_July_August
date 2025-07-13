@@ -35,7 +35,5 @@
 <h5 style="color: #009B77;">Useful Websites:</h5>
 
 - <a href="https://docs.python.org/3/"  target="_blank">Python Documentation</a>
-- <a href="https://www.python.org/psf-landing/"  target="_blank">The Python Software Foundation</a>
-- <a href="https://realpython.com/"  target="_blank">RealPython</a>
-- <a href="https://pybit.es/"  target="_blank">PyBites</a>
+
 - <a href="https://www.w3schools.com/python/default.asp"  target="_blank">W3 schools</a>
