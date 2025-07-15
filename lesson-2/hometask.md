@@ -40,7 +40,7 @@ Create a Python program that checks the strength of a user-entered password base
    - **Weak**: meets less than 3 criteria.
 
 
-### 🎟️ Exercise 4: Ticket Price Calculator
+###  Exercise 4: Ticket Price Calculator
 
 **Objective:**  
 Write a Python program that calculates the price of a movie ticket based on the customer's age.
